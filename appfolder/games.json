@@ -1,0 +1,59 @@
+[{
+    "hour": "17:10",
+    "awayName": "Spurs",
+    "awayLogo": "https://lexfitcode.github.io/dummieweb/logos%20nba/Spurs.png",
+    "homeName": "Cavaliers",
+    "homeLogo": "https://lexfitcode.github.io/dummieweb/logos%20nba/Cavaliers.png"
+  },
+  {
+    "hour": "17:40",
+    "awayName": "Mavericks",
+    "awayLogo": "https://lexfitcode.github.io/dummieweb/logos%20nba/Mavs.png",
+    "homeName": "Magic",
+    "homeLogo": "https://lexfitcode.github.io/dummieweb/logos%20nba/Magic.png"
+  },
+  {
+    "hour": "17:40",
+    "awayName": "Pacers",
+    "awayLogo": "https://lexfitcode.github.io/dummieweb/logos%20nba/Pacers.png",
+    "homeName": "Wizards",
+    "homeLogo": "https://lexfitcode.github.io/dummieweb/logos%20nba/Wizards.png"
+  },
+  {
+    "hour": "17:40",
+    "awayName": "Hawks",
+    "awayLogo": "https://lexfitcode.github.io/dummieweb/logos%20nba/Hawks.png",
+    "homeName": "Heat",
+    "homeLogo": "https://lexfitcode.github.io/dummieweb/logos%20nba/Heat.png"
+
+  },
+  {
+    "hour": "19:10",
+    "awayName": "Lakers",
+    "awayLogo": "https://lexfitcode.github.io/dummieweb/logos%20nba/Lakers.png",
+    "homeName": "Bulls",
+    "homeLogo": "https://lexfitcode.github.io/dummieweb/logos%20nba/Bulls.png"
+  },
+  {
+    "hour": "20:10",
+    "awayName": "Grizzlies",
+    "awayLogo": "https://lexfitcode.github.io/dummieweb/logos%20nba/Grizzlies.png",
+    "homeName": "Thunder",
+    "homeLogo": "https://lexfitcode.github.io/dummieweb/logos%20nba/Thunder.png"
+  },
+  {
+    "hour": "20:10",
+    "awayName": "Rockets",
+    "awayLogo": "https://lexfitcode.github.io/dummieweb/logos%20nba/Rockets.png",
+    "homeName": "Jazz",
+    "homeLogo": "https://lexfitcode.github.io/dummieweb/logos%20nba/Jazz.png"
+  },
+  {
+    "hour": "20:10",
+    "awayName": "Trail Blazers",
+    "awayLogo": "https://lexfitcode.github.io/dummieweb/logos%20nba/Trail%20Blazers.png",
+    "homeName": "Kings",
+    "homeLogo": "https://lexfitcode.github.io/dummieweb/logos%20nba/Kings.png"
+  }
+  
+]

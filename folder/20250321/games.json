@@ -1,0 +1,81 @@
+[
+  {
+    "hour": "5:00 PM",
+    "awayName": "Magic",
+    "awayLogo": "https://lexfitcode.github.io/dummieweb/logos%20nba/Magic.png",
+    "homeName": "Wizards",
+    "homeLogo": "https://lexfitcode.github.io/dummieweb/logos%20nba/Wizards.png"
+  },
+  {
+    "hour": "6:00 PM",
+    "awayName": "Rockets",
+    "awayLogo": "https://lexfitcode.github.io/dummieweb/logos%20nba/Rockets.png",
+    "homeName": "Heat",
+    "homeLogo": "https://lexfitcode.github.io/dummieweb/logos%20nba/Heat.png"
+  },
+  {
+    "hour": "8:00 PM",
+    "awayName": "Raptors",
+    "awayLogo": "https://lexfitcode.github.io/dummieweb/logos%20nba/Raptors.png",
+    "homeName": "Warriors",
+    "homeLogo": "https://lexfitcode.github.io/dummieweb/logos%20nba/Warriors.png"
+  },
+  {
+    "hour": "6:00 PM",
+    "awayName": "Pelicans",
+    "awayLogo": "https://lexfitcode.github.io/dummieweb/logos%20nba/Pelicans.png",
+    "homeName": "Timberwolves",
+    "homeLogo": "https://lexfitcode.github.io/dummieweb/logos%20nba/Timberwolves.png"
+
+  },
+  {
+    "hour": "6:00 PM",
+    "awayName": "Hornets",
+    "awayLogo": "https://lexfitcode.github.io/dummieweb/logos%20nba/Hornets.png",
+    "homeName": "Thunder",
+    "homeLogo": "https://lexfitcode.github.io/dummieweb/logos%20nba/Thunder.png"
+  },
+  {
+    "hour": "6:00 PM",
+    "awayName": "76ers",
+    "awayLogo": "https://lexfitcode.github.io/dummieweb/logos%20nba/76ers.png",
+    "homeName": "Spurs",
+    "homeLogo": "https://lexfitcode.github.io/dummieweb/logos%20nba/Spurs.png"
+  },
+  {
+    "hour": "6:30 PM",
+    "awayName": "Pistons",
+    "awayLogo": "https://lexfitcode.github.io/dummieweb/logos%20nba/Pistons.png",
+    "homeName": "Mavericks",
+    "homeLogo": "https://lexfitcode.github.io/dummieweb/logos%20nba/Mavericks.png"
+  },
+  {
+    "hour": "7:30 PM",
+    "awayName": "Celtics",
+    "awayLogo": "https://lexfitcode.github.io/dummieweb/logos%20nba/Celtics.png",
+    "homeName": "Jazz",
+    "homeLogo": "https://lexfitcode.github.io/dummieweb/logos%20nba/Jazz.png"
+
+  },
+  {
+    "hour": "8:00 PM",
+    "awayName": "Cavaliers",
+    "awayLogo": "https://lexfitcode.github.io/dummieweb/logos%20nba/Cavaliers.png",
+    "homeName": "Suns",
+    "homeLogo": "https://lexfitcode.github.io/dummieweb/logos%20nba/Suns.png"
+  },
+  {
+    "hour": "8:00 PM",
+    "awayName": "Nuggets",
+    "awayLogo": "https://lexfitcode.github.io/dummieweb/logos%20nba/Nuggets.png",
+    "homeName": "Trail Blazers",
+    "homeLogo": "https://lexfitcode.github.io/dummieweb/logos%20nba/Trail%20Blazers.png"
+  },
+  {
+    "hour": "8:30 PM",
+    "awayName": "Grizzlies",
+    "awayLogo": "https://lexfitcode.github.io/dummieweb/logos%20nba/Grizzlies.png",
+    "homeName": "Clippers",
+    "homeLogo": "https://lexfitcode.github.io/dummieweb/logos%20nba/Clippers.png"
+  }
+]

@@ -1,0 +1,707 @@
+{
+    "name": "",
+    "team": "",
+    "game": { "awayName": "", "homeName": "" },
+    "odds": {
+      "puntos" : {
+        "finalName": "",
+        "line": "",
+        "overOdd": "",
+        "underOdd": "",
+        "stats": {
+          "game1": {
+            "date": "",
+            "min": "",
+            "pts": "",
+            "cover": false
+          },
+          "game2": {
+            "date": "",
+            "min": "",
+            "pts": "",
+            "cover": false
+          },
+          "game3": {
+            "date": "",
+            "min": "",
+            "pts": "",
+            "cover": false
+          },
+          "game4": {
+            "date": "",
+            "min": "",
+            "pts": "",
+            "cover": false
+          },
+          "game5": {
+            "date": "",
+            "min": "",
+            "pts": "",
+            "cover": false
+          }
+        },
+        "statsVs": {
+          "game1": {
+            "date": "",
+            "min": "",
+            "pts": "",
+            "cover": false
+          },
+          "game2": {
+            "date": "",
+            "min": "",
+            "pts": "",
+            "cover": false
+          },
+          "game3": {
+            "date": "",
+            "min": "",
+            "pts": "",
+            "cover": false
+          },
+          "game4": {
+            "date": "",
+            "min": "",
+            "pts": "",
+            "cover": false
+          },
+          "game5": {
+            "date": "",
+            "min": "",
+            "pts": "",
+            "cover": false
+          }
+        }
+      },
+      "asistencias" : {
+       "finalName": "",
+        "line": "",
+        "overOdd": "",
+        "underOdd": "",
+        "stats": {
+          "game1": {
+            "date": "",
+            "min": "",
+            "pts": "",
+            "cover": false
+          },
+          "game2": {
+            "date": "",
+            "min": "",
+            "ast": "",
+            "cover": false
+          },
+          "game3": {
+            "date": "",
+            "min": "",
+            "ast": "",
+            "cover": false
+          },
+          "game4": {
+            "date": "",
+            "min": "",
+            "ast": "",
+            "cover": false
+          },
+          "game5": {
+            "date": "",
+            "min": "",
+            "ast": "",
+            "cover": false
+          }
+        },
+        "statsVs": {
+          "game1": {
+            "date": "",
+            "min": "",
+            "ast": "",
+            "cover": false
+          },
+          "game2": {
+            "date": "",
+            "min": "",
+            "ast": "",
+            "cover": false
+          },
+          "game3": {
+            "date": "",
+            "min": "",
+            "ast": "",
+            "cover": false
+          },
+          "game4": {
+            "date": "",
+            "min": "",
+            "ast": "",
+            "cover": false
+          },
+          "game5": {
+            "date": "",
+            "min": "",
+            "ast": "",
+            "cover": false
+          }
+        }
+      },
+      "rebotes" : {
+        "finalName": "",
+        "line": "",
+        "overOdd": "",
+        "underOdd": "",
+        "stats": {
+          "game1": {
+            "date": "",
+            "min": "",
+            "reb": "",
+            "cover": false
+          },
+          "game2": {
+            "date": "",
+            "min": "",
+            "reb": "",
+            "cover": false
+          },
+          "game3": {
+            "date": "",
+            "min": "",
+            "reb": "",
+            "cover": false
+          },
+          "game4": {
+            "date": "",
+            "min": "",
+            "reb": "",
+            "cover": false
+          },
+          "game5": {
+            "date": "",
+            "min": "",
+            "reb": "",
+            "cover": false
+          }
+        },
+        "statsVs": {
+          "game1": {
+            "date": "",
+            "min": "",
+            "reb": "",
+            "cover": false
+          },
+          "game2": {
+            "date": "",
+            "min": "",
+            "reb": "",
+            "cover": false
+          },
+          "game3": {
+            "date": "",
+            "min": "",
+            "reb": "",
+            "cover": false
+          },
+          "game4": {
+            "date": "",
+            "min": "",
+            "reb": "",
+            "cover": false
+          },
+          "game5": {
+            "date": "",
+            "min": "",
+            "reb": "",
+            "cover": false
+          }
+        }
+      },
+      "triples" : {
+        "finalName": "",
+        "line": "",
+        "overOdd": "",
+        "underOdd": "",
+        "stats": {
+          "game1": {
+            "date": "",
+            "min": "",
+            "triples": "",
+            "cover": false
+          },
+          "game2": {
+            "date": "",
+            "min": "",
+            "triples": "",
+            "cover": false
+          },
+          "game3": {
+            "date": "",
+            "min": "",
+            "triples": "",
+            "cover": false
+          },
+          "game4": {
+            "date": "",
+            "min": "",
+            "triples": "",
+            "cover": false
+          },
+          "game5": {
+            "date": "",
+            "min": "",
+            "triples": "",
+            "cover": false
+          }
+        },
+        "statsVs": {
+          "game1": {
+            "date": "",
+            "min": "",
+            "triples": "",
+            "cover": false
+          },
+          "game2": {
+            "date": "",
+            "min": "",
+            "triples": "",
+            "cover": false
+          },
+          "game3": {
+            "date": "",
+            "min": "",
+            "triples": "",
+            "cover": false
+          },
+          "game4": {
+            "date": "",
+            "min": "",
+            "triples": "",
+            "cover": false
+          },
+          "game5": {
+            "date": "",
+            "min": "",
+            "triples": "",
+            "cover": false
+          }
+        }
+      },
+      "menorPuntos" : {
+        "finalName": "",
+        "line": "",
+        "overOdd": "",
+        "underOdd": "",
+        "stats": {
+          "game1": {
+            "date": "",
+            "min": "",
+            "pts": "",
+            "cover": false
+          },
+          "game2": {
+            "date": "",
+            "min": "",
+            "pts": "",
+            "cover": false
+          },
+          "game3": {
+            "date": "",
+            "min": "",
+            "pts": "",
+            "cover": false
+          },
+          "game4": {
+            "date": "",
+            "min": "",
+            "pts": "",
+            "cover": false
+          },
+          "game5": {
+            "date": "",
+            "min": "",
+            "pts": "",
+            "cover": false
+          }
+        },
+        "statsVs": {
+          "game1": {
+            "date": "",
+            "min": "",
+            "pts": "",
+            "cover": false
+          },
+          "game2": {
+            "date": "",
+            "min": "",
+            "pts": "",
+            "cover": false
+          },
+          "game3": {
+            "date": "",
+            "min": "",
+            "pts": "",
+            "cover": false
+          },
+          "game4": {
+            "date": "",
+            "min": "",
+            "pts": "",
+            "cover": false
+          },
+          "game5": {
+            "date": "",
+            "min": "",
+            "pts": "",
+            "cover": false
+          }
+        }
+      },
+      "mayorPuntos" : {
+        "finalName": "",
+        "line": "",
+        "overOdd": "",
+        "underOdd": "",
+        "stats": {
+          "game1": {
+            "date": "",
+            "min": "",
+            "pts": "",
+            "cover": false
+          },
+          "game2": {
+            "date": "",
+            "min": "",
+            "pts": "",
+            "cover": false
+          },
+          "game3": {
+            "date": "",
+            "min": "",
+            "pts": "",
+            "cover": false
+          },
+          "game4": {
+            "date": "",
+            "min": "",
+            "pts": "",
+            "cover": false
+          },
+          "game5": {
+            "date": "",
+            "min": "",
+            "pts": "",
+            "cover": false
+          }
+        },
+        "statsVs": {
+          "game1": {
+            "date": "",
+            "min": "",
+            "pts": "",
+            "cover": false
+          },
+          "game2": {
+            "date": "",
+            "min": "",
+            "pts": "",
+            "cover": false
+          },
+          "game3": {
+            "date": "",
+            "min": "",
+            "pts": "",
+            "cover": false
+          },
+          "game4": {
+            "date": "",
+            "min": "",
+            "pts": "",
+            "cover": false
+          },
+          "game5": {
+            "date": "",
+            "min": "",
+            "pts": "",
+            "cover": false
+          }
+        }
+      },
+      "puntosAsistenciasRebotes" : {
+        "finalName": "",
+        "line": "",
+        "overOdd": "",
+        "underOdd": "",
+        "stats": {
+          "game1": {
+            "date": "",
+            "min": "",
+            "par": "",
+            "cover": false
+          },
+          "game2": {
+            "date": "",
+            "min": "",
+            "par": "",
+            "cover": false
+          },
+          "game3": {
+            "date": "",
+            "min": "",
+            "par": "",
+            "cover": false
+          },
+          "game4": {
+            "date": "",
+            "min": "",
+            "par": "",
+            "cover": false
+          },
+          "game5": {
+            "date": "",
+            "min": "",
+            "par": "",
+            "cover": false
+          }
+        },
+        "statsVs": {
+          "game1": {
+            "date": "",
+            "min": "",
+            "par": "",
+            "cover": false
+          },
+          "game2": {
+            "date": "",
+            "min": "",
+            "par": "",
+            "cover": false
+          },
+          "game3": {
+            "date": "",
+            "min": "",
+            "par": "",
+            "cover": false
+          },
+          "game4": {
+            "date": "",
+            "min": "",
+            "par": "",
+            "cover": false
+          },
+          "game5": {
+            "date": "",
+            "min": "",
+            "par": "",
+            "cover": false
+          }
+        }   
+      },
+      "asitenciasRebotes" : {
+        "finalName": "",
+        "line": "",
+        "overOdd": "",
+        "underOdd": "",
+        "stats": {
+          "game1": {
+            "date": "",
+            "min": "",
+            "ar": "",
+            "cover": false
+          },
+          "game2": {
+            "date": "",
+            "min": "",
+            "ar": "",
+            "cover": false
+          },
+          "game3": {
+            "date": "",
+            "min": "",
+            "ar": "",
+            "cover": false
+          },
+          "game4": {
+            "date": "",
+            "min": "",
+            "ar": "",
+            "cover": false
+          },
+          "game5": {
+            "date": "",
+            "min": "",
+            "ar": "",
+            "cover": false
+          }
+        },
+        "statsVs": {
+          "game1": {
+            "date": "",
+            "min": "",
+            "ar": "",
+            "cover": false
+          },
+          "game2": {
+            "date": "",
+            "min": "",
+            "ar": "",
+            "cover": false
+          },
+          "game3": {
+            "date": "",
+            "min": "",
+            "ar": "",
+            "cover": false
+          },
+          "game4": {
+            "date": "",
+            "min": "",
+            "ar": "",
+            "cover": false
+          },
+          "game5": {
+            "date": "",
+            "min": "",
+            "ar": "",
+            "cover": false
+          }
+        }
+      },
+      "puntosRebotes" : {
+        "finalName": "",
+        "line": "",
+        "overOdd": "",
+        "underOdd": "",
+        "stats": {
+          "game1": {
+            "date": "",
+            "min": "",
+            "pr": "",
+            "cover": false
+          },
+          "game2": {
+            "date": "",
+            "min": "",
+            "pr": "",
+            "cover": false
+          },
+          "game3": {
+            "date": "",
+            "min": "",
+            "pr": "",
+            "cover": false
+          },
+          "game4": {
+            "date": "",
+            "min": "",
+            "pr": "",
+            "cover": false
+          },
+          "game5": {
+            "date": "",
+            "min": "",
+            "pr": "",
+            "cover": false
+          }
+        },
+        "statsVs": {
+          "game1": {
+            "date": "",
+            "min": "",
+            "pr": "",
+            "cover": false
+          },
+          "game2": {
+            "date": "",
+            "min": "",
+            "pr": "",
+            "cover": false
+          },
+          "game3": {
+            "date": "",
+            "min": "",
+            "pr": "",
+            "cover": false
+          },
+          "game4": {
+            "date": "",
+            "min": "",
+            "pr": "",
+            "cover": false
+          },
+          "game5": {
+            "date": "",
+            "min": "",
+            "pr": "",
+            "cover": false
+          }
+        }
+      },
+      "puntosAsistencias" : {
+        "finalName": "",
+        "line": "",
+        "overOdd": "",
+        "underOdd": "",
+        "stats": {
+          "game1": {
+            "date": "",
+            "min": "",
+            "pa": "",
+            "cover": false
+          },
+          "game2": {
+            "date": "",
+            "min": "",
+            "pa": "",
+            "cover": false
+          },
+          "game3": {
+            "date": "",
+            "min": "",
+            "pa": "",
+            "cover": false
+          },
+          "game4": {
+            "date": "",
+            "min": "",
+            "pa": "",
+            "cover": false
+          },
+          "game5": {
+            "date": "",
+            "min": "",
+            "pa": "",
+            "cover": false
+          }
+        },
+        "statsVs": {
+          "game1": {
+            "date": "",
+            "min": "",
+            "pa": "",
+            "cover": false
+          },
+          "game2": {
+            "date": "",
+            "min": "",
+            "pa": "",
+            "cover": false
+          },
+          "game3": {
+            "date": "",
+            "min": "",
+            "pa": "",
+            "cover": false
+          },
+          "game4": {
+            "date": "",
+            "min": "",
+            "pa": "",
+            "cover": false
+          },
+          "game5": {
+            "date": "",
+            "min": "",
+            "pa": "",
+            "cover": false
+          }
+        }
+      }
+    }
+  }    
