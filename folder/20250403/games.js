@@ -1,0 +1,17 @@
+[{
+    "hour": "17:10",
+    "awayName": "Kings",
+    "awayLogo": "https://lexfitcode.github.io/dummieweb/logos%20nba/Kings.png",
+    "homeName": "Hornets",
+    "homeLogo": "https://lexfitcode.github.io/dummieweb/logos%20nba/Hornets.png",
+    "sport" : "bsk"
+  },
+  {
+    "hour": "17:10",
+    "awayName": "Jazz",
+    "awayLogo": "https://lexfitcode.github.io/dummieweb/logos%20nba/Jazz.png",
+    "homeName": "Pacers",
+    "homeLogo": "https://lexfitcode.github.io/dummieweb/logos%20nba/Pacers.png",
+    "sport" : "bsk"
+  }
+  ]

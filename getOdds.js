@@ -13,7 +13,7 @@ export async function navigateWebPage(date, url) {
     const names = document.querySelectorAll(".general");
     const market = [...names].map((player) => {
       const marketData = player.querySelector(
-        ".market"
+        ".cm-MarketGroupWithIconsButton_Text"
       )?.innerText;
       const singleNames = player.querySelectorAll(
         ".srb-ParticipantLabelWithTeam_Name"

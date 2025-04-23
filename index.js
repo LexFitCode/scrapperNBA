@@ -4,10 +4,9 @@ import { getPlayersFromOdds } from './getStats.js';
 import { setOddsWithStats } from './setIcons.js';
 
 const url = "https://lexfitcode.github.io/dummieweb"
-const date = 20250327
+const date = 20250402
 
-//await navigateWebPage(date, url);
-//await getGamesFromWeb(date, gamesNumber, idGames)
-//await getPlayersFromOdds(date)
+await navigateWebPage(date, url);
+await getPlayersFromOdds(date)
 
-await setOddsWithStats(date)
+//await setOddsWithStats(date)

@@ -1,6 +1,6 @@
 import puppeteer from "puppeteer"
 import fs from "fs/promises"
-//import * as players from "./appfolder/playerodds.json" with { type : "json"}
+import * as players from "./appfolder/playerodds.json" with { type : "json"}
 import * as games from "./appfolder/games.json" with { type : "json"}
 import { setName, setNameComplete } from "./setNames.js"
 
@@ -87,7 +87,7 @@ async function getDataFromWeb(name){
 
 
             const name = document.querySelector("body > div.grid.grid-rows-1.gap-3.\\[--top-spacing\\:62px\\].flex-1.md\\:grid-cols-\\[1fr_300px\\].xl\\:grid-cols-\\[auto_1fr_300px\\] > div.min-w-0.h-full > div.content.flex.flex-col.gap-3 > div:nth-child(2) > div.flex-1.overflow-x-auto > astro-island > div > div > table > tbody > tr:nth-child(1) > td.text-left.px-2.py-2\\.5.sticky.left-0.bg-gray-8.dark\\:bg-gray-3 > a > div > span") !== null ? document.querySelector("body > div.grid.grid-rows-1.gap-3.\\[--top-spacing\\:62px\\].flex-1.md\\:grid-cols-\\[1fr_300px\\].xl\\:grid-cols-\\[auto_1fr_300px\\] > div.min-w-0.h-full > div.content.flex.flex-col.gap-3 > div:nth-child(2) > div.flex-1.overflow-x-auto > astro-island > div > div > table > tbody > tr:nth-child(1) > td.text-left.px-2.py-2\\.5.sticky.left-0.bg-gray-8.dark\\:bg-gray-3 > a > div > span").innerText : "sin data"
-            const team = document.querySelector(atributte + "tr:nth-child(5) > td:nth-child(5) > a").getAttribute('title') === null 
+            const team = document.querySelector(atributte + "tr:nth-child(5) > td:nth-child(5) > a") === null 
                             ? "sin data" 
                             : document.querySelector(atributte + "tr:nth-child(5) > td:nth-child(5) > a").getAttribute('title')
             const date1 = document.querySelector("body > div.grid.grid-rows-1.gap-3.\\[--top-spacing\\:62px\\].flex-1.md\\:grid-cols-\\[1fr_300px\\].xl\\:grid-cols-\\[auto_1fr_300px\\] > div.min-w-0.h-full > div.content.flex.flex-col.gap-3 > div:nth-child(2) > div.flex-1.overflow-x-auto > astro-island > div > div > table > tbody > tr:nth-child(1) > td:nth-child(4) > a > div > span") !== null ? document.querySelector("body > div.grid.grid-rows-1.gap-3.\\[--top-spacing\\:62px\\].flex-1.md\\:grid-cols-\\[1fr_300px\\].xl\\:grid-cols-\\[auto_1fr_300px\\] > div.min-w-0.h-full > div.content.flex.flex-col.gap-3 > div:nth-child(2) > div.flex-1.overflow-x-auto > astro-island > div > div > table > tbody > tr:nth-child(1) > td:nth-child(4) > a > div > span").innerText: "sin data"
@@ -154,6 +154,7 @@ async function getDataFromWebVs(name, rival){
     })
     const page = await browser.newPage()
     const url = "https://www.statmuse.com/nba/ask/"+name+"-last-5-games-vs-" + rival
+    console.log(url)
     await page.goto(url)
     const result = await page.evaluate(()=> {
         if(document.querySelector("body > div.grid.grid-rows-1.gap-3.\\[--top-spacing\\:62px\\].flex-1.md\\:grid-cols-\\[1fr_300px\\].xl\\:grid-cols-\\[auto_1fr_300px\\] > div.min-w-0.h-full > div.content.flex.flex-col.gap-3 > div:nth-child(2) > div.flex-1.overflow-x-auto > astro-island > div > div > table > tbody > tr:nth-child(1)") !==null){
